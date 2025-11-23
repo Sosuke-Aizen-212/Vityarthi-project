@@ -37,7 +37,7 @@ pip install -r requirements.txt
 2. **Save the File**  
    Drop the code into a file named `finance_tracker.py`.
 
-3. **Execute**  
+3. **Execute**
    Open your terminal, navigate to the folder containing the file, and run:  
    ```bash
    python finance_tracker.py
