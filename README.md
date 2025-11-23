@@ -47,8 +47,8 @@ pip install -r requirements.txt
 
 ## OUTPUT
 
-This code provides:
--Full datasheet of Personal Finance
+**This code provides:**
+-Full datasheet for Personal Finance
 
 
 
