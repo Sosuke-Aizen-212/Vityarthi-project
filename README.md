@@ -1,6 +1,6 @@
 # Smart Finance Tracker
 
-A machine learning project that predicts diabetes using patient health metrics.
+This is a simple, command-line interface (CLI) application developed in Python to help users track their personal income and expenses. It provides a quick way to record financial transactions, view a comprehensive summary, and analyze spending patterns by category.
 
 ## Dataset
 
