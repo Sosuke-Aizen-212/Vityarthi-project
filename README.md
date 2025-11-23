@@ -20,9 +20,7 @@ The application provides the following core functionalities through an interacti
 
 ## Files
 
-- `diabetes.csv` - Dataset
-- `diabetes_prediction.py` - Model training script
-- `predict_new.py` - Interactive prediction script
+- `SmartFinanceTracker.py` - Code
 - `requirements.txt` - Dependencies
 
 ## Installation
